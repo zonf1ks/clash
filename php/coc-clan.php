@@ -5,7 +5,7 @@
   # Get your API key from the following website.
   # https://developer.clashofclans.com/
   ####################################################################
-  $token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjFkMTg4Zjc3LWQ2ZGItNGVkZS04NzM0LTk2Y2JiN2FlNzRjZCIsImlhdCI6MTY3NTE3ODM2Nywic3ViIjoiZGV2ZWxvcGVyL2IwNDA3NDNmLTg0MWYtMjQ5My1mYjhiLTMxZGJlMmU0ZTg4NiIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjE1My45Mi4wLjciXSwidHlwZSI6ImNsaWVudCJ9XX0.fv06xP5ZnpGENLzWsxoZMW9YIiiYlbdk_iTK-q9EofIcTXGsDRldE--7neFRNDA9ovJUOKn8UP9s-UezYSZDLA";
+  $token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjkyMWU3NTAyLTU5OGEtNDZkOC1iZWI0LWJiYmUyMjdlOTAwYyIsImlhdCI6MTY3NjAzNTE1MCwic3ViIjoiZGV2ZWxvcGVyL2IwNDA3NDNmLTg0MWYtMjQ5My1mYjhiLTMxZGJlMmU0ZTg4NiIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjE4NS4xOTkuMTA4LjE1MyJdLCJ0eXBlIjoiY2xpZW50In1dfQ.DFE1S4vjfgJLCyVyTCTGYbGfkOBDe6Wj1yk-p97liWETjWAK9tcFCK7rQqVip9lcNCEobe8ADf4gc1iWL0ct8w";
 
   ####################################################################
   # EDIT CLASH OF CLANS CLAN TAG
